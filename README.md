@@ -10,7 +10,7 @@
 2. 句子：来源于网络
 3. 整理：bzxg
 4. 分类
-   - `djt.txt` - 毒鸡汤 * *1222* [点击查看](https://bzxg-space.github.io/yqjz/dtj.txt)
+   - `djt.txt` - 毒鸡汤 * *1222* [点击查看](https://bzxg-space.github.io/yqjz/djt.txt)
    - `twqh.txt` - 土味情话 * *1315* [点击查看](https://bzxg-space.github.io/yqjz/twqh.txt)
    - `yy.txt` - 一言 * *528* [点击查看](https://bzxg-space.github.io/yqjz/yy.txt)
    - `tgrj.txt` - 舔狗日记 * *59* [点击查看](https://bzxg-space.github.io/yqjz/tgrj.txt)
