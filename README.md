@@ -14,4 +14,6 @@
    - `twqh.txt` - 土味情话 * *1315* [点击查看](https://bzxg-space.github.io/yqjz/twqh.txt)
    - `yy.txt` - 一言 * *528* [点击查看](https://bzxg-space.github.io/yqjz/yy.txt)
    - `tgrj.txt` - 舔狗日记 * *59* [点击查看](https://bzxg-space.github.io/yqjz/tgrj.txt)
+   - `my.txt` - 名言 * 1000 [点击查看](https://bzxg-space.github.io/yqjz/my.txt)
+   - `gsc.txt` - 古诗词 * 1000 [点击查看](https://bzxg-space.github.io/yqjz/gsc.txt)
 
